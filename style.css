@@ -841,8 +841,6 @@ h6 a:hover::after {
   align-items: flex-start;
   flex-direction: column;
   padding: 0 0.5rem;
-  /* background-color: rgba(255, 255, 255, 0.068);
-  backdrop-filter: blur(10px); */
   z-index: 999999999;
 }
 
@@ -852,13 +850,13 @@ h6 a:hover::after {
   border: none;
   border-bottom: 0.5px solid red;
   background-color: transparent;
-  /* border-radius: 5px; */
+  color: white;
 }
 
 .contactform textarea {
   border: 0.5px solid red;
   background-color: transparent;
-  /* border-radius: 5px; */
+  color: white;
 }
 .contactform h6 {
   font-size: 1rem;
