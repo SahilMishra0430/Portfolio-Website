@@ -7,7 +7,7 @@ Shery.makeMagnet(
   }
 );
 
-Shery.mouseFollower();
+// Shery.mouseFollower();
 
 const follower = document.querySelector('.follower');
 
