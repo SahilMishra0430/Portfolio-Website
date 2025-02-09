@@ -1030,3 +1030,9 @@ h6 a:hover::after {
   text-decoration: none;
   z-index: 9999999; /* Lower z-index than trcircle */
 }
+
+
+
+input{
+  color:white;
+}
