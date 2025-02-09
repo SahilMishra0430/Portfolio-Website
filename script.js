@@ -21,10 +21,6 @@ document.addEventListener('mousemove', (event) => {
   follower.style.top = `${clientY + scrollY}px`;
 });
 
-Shery.hoverWithMediaCircle('.contentbox' /* Element to target.*/, {
-  images: ['Desktop - 1.jpg'] /*OR*/,
-  //videos: ["video1.mp4", "video2.mp4"],
-});
 
 Shery.textAnimate('.herotext h3' /* Element to target.*/, {
   //Parameters are optional.
