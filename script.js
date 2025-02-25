@@ -53,3 +53,8 @@ document.addEventListener('scroll', handleScroll);
 window.addEventListener('load', handleScroll);
 
 // percentage animation
+
+// Initialize Lenis
+const lenis = new Lenis({
+  autoRaf: true,
+});
