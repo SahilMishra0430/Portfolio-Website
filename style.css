@@ -14,7 +14,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  cursor: none;
+/*   cursor: none; */
   background-color: #000000;
 }
 
